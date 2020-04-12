@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed&display=swap');
+
+body {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    top: 25%;
+    letter-spacing: .5em;
+    background: linear-gradient(to right, #ffee00, #e90e0e);
+}
+
+h1 {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .25em;
+    width: 100%;
+    font-size: 4em;
+    text-emphasis: bold;
+    padding-top: 100px;
+
+}
+
+.center {
+    align-content: center;
+    margin-top: 8%;
+    margin-bottom: 1.5cm;
+}
+
+#text { 
+    letter-spacing: .10em;
+    
+}
+
+.infohere {
+    color: rgba(0, 0, 0, 0.87);
+    border: 1px black;
+    
+}
+.random {
+    border-top: black;
+    margin-top: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
